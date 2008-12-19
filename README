@@ -1,0 +1,5 @@
+Real-Time Raytracer
+by Jean-Rene Bedard (jrbedard@gmail.com) 2004
+
+Real-time ray tracer hardware-accelerated using OpenGL and C++. It supports materials, refraction, reflection, optimized ray/sphere, ray/box and ray/plane collisions detections. The camera is interactive and can be rotated using left-click and translated using right-click.
+
